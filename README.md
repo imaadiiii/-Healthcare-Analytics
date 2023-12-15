@@ -30,7 +30,7 @@ The analysis was conducted using Jupyter Notebooks, Python, and several Python l
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/healthcare-analytics-rgi.git
+   git clone [https://github.com/imaadiiii/-Healthcare-Analytics.git]
    ```
 
 2. **Explore Notebooks:**
