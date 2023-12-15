@@ -1,6 +1,6 @@
-# -Healthcare-Analytics
+# -Healthcare-Analytics RGI dataset (Rajiv Gandhi Institute of Chest Diseases).
 
-Welcome to the GitHub repository for the Healthcare Analytics project conducted at RTWO Healthcare Solutions. In this project, we performed a comprehensive analysis on the dataset, aiming to extract valuable insights from four distinct datasets provided by the company. The analysis was carried out using Jupyter Notebooks and Python, leveraging various Python libraries.
+Welcome to the GitHub repository for the Healthcare Analytics project conducted at RTWO Healthcare Solutions. In this project, we performed a comprehensive analysis on the RGI dataset, aiming to extract valuable insights from four distinct datasets provided by the company. The analysis was carried out using Jupyter Notebooks and Python, leveraging various Python libraries.
 
 ## Project Overview
 
